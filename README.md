@@ -3,29 +3,12 @@
   <h1>Zona</h1>
   <p>A social app</p>
 </div>
-<div display="flex">
-  <div flex=33.33% padding=5px;>
-    <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
-  </div>
-  <div class="column">
-    <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
-  </div>
-  <div class="column">
-    <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
-  </div>
-</div>
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
+  |  <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
 <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG" alt="drawing" width="300"/>
