@@ -3,6 +3,17 @@
   <h1>Zona</h1>
   <p>A social app</p>
 </div>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
+  </div>
+  <div class="column">
+    <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
+  </div>
+  <div class="column">
+    <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
+  </div>
+</div>
 
 <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
 <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG" alt="drawing" width="300"/>
