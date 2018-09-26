@@ -1,5 +1,6 @@
 # ZONA2.0
 ![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG =100x200)
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="200"/>
 
 
 ![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG "Screenshot")
