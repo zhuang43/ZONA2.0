@@ -1,3 +1,6 @@
 # ZONA2.0
-![Alt text](/relative/path/to/img.jpg?raw=true "Screenshot")
+![Alt text](/ZONA2.0/Pics/IMG_1644.PNG?raw=true "Screenshot")
 
+
+      
+    
