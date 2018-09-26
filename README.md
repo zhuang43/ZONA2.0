@@ -4,15 +4,15 @@
   <p>A social app</p>
 </div>
 
-Solarized dark             |  Solarized Ocean
+Feeds             |  Post detail
 :-------------------------:|:-------------------------:
-![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG)
+![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG)
 
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG" alt="drawing" width="300"/>
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1646.PNG" alt="drawing" width="300"/>
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1647.PNG" alt="drawing" width="300"/>
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1648.PNG" alt="drawing" width="300"/>
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1649.PNG" alt="drawing" width="300"/>
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1650.PNG" alt="drawing" width="300"/>
-    
+Comments             |  Write a comment
+:-------------------------:|:-------------------------:
+![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1646.PNG)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1647.PNG)
+
+Mini tinder             |  Write a post | Profile
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1648.PNG)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1649.PNG) | ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1650.PNG) 
+
