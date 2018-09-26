@@ -4,9 +4,9 @@
   <p>A social app</p>
 </div>
 
-Feeds             |  Post detail | Comments             |  Write a comment
-:-------------------------:|:-------------------------:|:-------------------------:|:------------------------:
-![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG) | ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1646.PNG)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1647.PNG)
+Feeds             |  Post detail  
+:-------------------------:|:-------------------------:
+![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG) | 
 
 Comments             |  Write a comment
 :-------------------------:|:-------------------------:
