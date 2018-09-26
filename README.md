@@ -6,9 +6,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
-  |  <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
-
+![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing)  |  ![](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing)
 
 <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
 <img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG" alt="drawing" width="300"/>
