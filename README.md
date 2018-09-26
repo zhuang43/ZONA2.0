@@ -1,15 +1,12 @@
 # ZONA2.0
-![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG =100x200)
-<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="200"/>
+<Container>
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1644.PNG" alt="drawing" width="300"/>
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG" alt="drawing" width="300"/>
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1646.PNG" alt="drawing" width="300"/>
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1647.PNG" alt="drawing" width="300"/>
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1648.PNG" alt="drawing" width="300"/>
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1649.PNG" alt="drawing" width="300"/>
+<img src="https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1650.PNG" alt="drawing" width="300"/>
+</Container>
 
-
-![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1645.PNG "Screenshot")
-![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1646.PNG "Screenshot")
-![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1647.PNG "Screenshot")
-![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1648.PNG "Screenshot")
-![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1649.PNG "Screenshot")
-![Screenshot](https://github.com/zhuang43/ZONA2.0/blob/master/Pics/IMG_1650.PNG "Screenshot")
-
-
-      
     
